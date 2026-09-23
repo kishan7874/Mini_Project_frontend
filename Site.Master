@@ -1,0 +1,57 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.Master.cs" Inherits="QuickKart10Min.SiteMaster" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>QuickKart - 10 Minute Delivery</title>
+    <link href="Content/Site.css" rel="stylesheet" />
+    <script src="Content/site.js"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
+</head>
+<body>
+<form id="form1" runat="server">
+<header class="topbar">
+    <div class="container nav">
+        <a class="brand" href="Default.aspx"><span class="brand-mark">Q</span><span>QuickKart</span></a>
+        <div class="search">
+            <asp:TextBox ID="txtSearch" runat="server" CssClass="search-input" placeholder="Search products, brands and essentials"></asp:TextBox>
+            <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="search-btn" OnClick="btnSearch_Click" />
+        </div>
+        <a class="nav-link" href="Login.aspx"><span class="nav-icon account-icon">A</span>Account</a>
+        <a class="cart-pill" href="Cart.aspx"><span class="nav-icon cart-icon">C</span>Cart <span class="cart-count"><asp:Literal ID="litCartCount" runat="server" /></span></a>
+    </div>
+</header>
+<div class="delivery-strip">
+    <div class="container delivery-inner">
+        <strong>10 MIN DELIVERY</strong>
+        <span>Groceries and daily essentials at your doorstep</span>
+        <span class="service-area">Service area: local delivery</span>
+    </div>
+</div>
+<main>
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+</main>
+<footer>
+    <div class="container footer-grid">
+        <div>
+            <div class="brand footer-brand"><span class="brand-mark">Q</span><span>QuickKart</span></div>
+            <p>Fast, simple and reliable local delivery for everyday essentials.</p>
+        </div>
+        <div>
+            <h4>Quick Links</h4>
+            <a href="Products.aspx">All Products</a>
+            <a href="Cart.aspx">Cart</a>
+            <a href="Login.aspx">My Account</a>
+        </div>
+        <div>
+            <h4>Project</h4>
+            <p>ASP.NET Web Forms Mini Project</p>
+            <p>10 Minute E-Commerce Delivery</p>
+        </div>
+    </div>
+    <div class="copyright">Copyright 2026 QuickKart - College Mini Project</div>
+</footer>
+</form>
+</body>
+</html>

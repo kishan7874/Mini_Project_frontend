@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240"><rect width="320" height="240" rx="28" fill="#fff4e7"/>
+<path d="M72 149 L72 102 C72 76 94 60 120 60 L201 60 C229 60 248 77 248 103 L248 149 C248 164 238 174 223 174 L97 174 C82 174 72 164 72 149 Z" fill="#d98b43"/>
+<path d="M83 105 C84 82 101 72 121 72 L200 72 C220 72 237 82 238 105" fill="#f2b567"/>
+<circle cx="119" cy="113" r="5" fill="#d18a42"/><circle cx="159" cy="104" r="5" fill="#d18a42"/><circle cx="194" cy="118" r="5" fill="#d18a42"/>
+<text x="160" y="35" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#a9692d">BAKERY</text>
+<text x="160" y="208" text-anchor="middle" font-family="Arial" font-size="14" fill="#a77f55">BROWN BREAD - 400 G</text></svg>

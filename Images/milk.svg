@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240"><rect width="320" height="240" rx="28" fill="#eef7ff"/>
+<path d="M113 62 L207 62 L223 95 L223 181 L97 181 L97 95 Z" fill="#ffffff" stroke="#83bff0" stroke-width="4"/>
+<path d="M113 62 L126 40 L194 40 L207 62" fill="#eaf4ff" stroke="#83bff0" stroke-width="4"/>
+<rect x="97" y="105" width="126" height="38" fill="#398fdb"/>
+<text x="160" y="131" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#ffffff">MILK</text>
+<text x="160" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#4b92cf">DAILY FRESH</text>
+<text x="160" y="208" text-anchor="middle" font-family="Arial" font-size="14" fill="#6993b6">1 LITRE</text></svg>

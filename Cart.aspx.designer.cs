@@ -1,0 +1,1 @@
+namespace QuickKart10Min { public partial class Cart { protected global::System.Web.UI.WebControls.Panel pnlEmpty; protected global::System.Web.UI.WebControls.Panel pnlCart; protected global::System.Web.UI.WebControls.Repeater rptCart; protected global::System.Web.UI.WebControls.Literal litSubtotal; protected global::System.Web.UI.WebControls.Literal litTotal; } }

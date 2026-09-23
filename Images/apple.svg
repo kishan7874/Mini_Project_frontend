@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240"><rect width="320" height="240" rx="28" fill="#fff0f0"/>
+<path d="M160 72 C123 41 82 75 85 125 C88 173 127 192 160 178 C193 192 232 173 235 125 C238 75 197 41 160 72 Z" fill="#f34d4d"/>
+<path d="M164 70 C173 48 190 39 210 38" fill="none" stroke="#6c8f42" stroke-width="9" stroke-linecap="round"/>
+<path d="M161 72 C145 55 130 52 116 58" fill="none" stroke="#6c8f42" stroke-width="10" stroke-linecap="round"/>
+<text x="160" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#c63b3b">RED APPLES</text>
+<text x="160" y="215" text-anchor="middle" font-family="Arial" font-size="14" fill="#b46e6e">PREMIUM - 1 KG</text></svg>

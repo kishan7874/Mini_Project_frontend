@@ -1,0 +1,1 @@
+namespace QuickKart10Min { public partial class _Default { protected global::System.Web.UI.WebControls.Repeater rptPopular; } }

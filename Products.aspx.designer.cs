@@ -1,0 +1,1 @@
+namespace QuickKart10Min { public partial class Products { protected global::System.Web.UI.WebControls.DropDownList ddlCategory; protected global::System.Web.UI.WebControls.Label lblResults; protected global::System.Web.UI.WebControls.Repeater rptProducts; } }

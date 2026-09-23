@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240"><rect width="320" height="240" rx="28" fill="#f1f0ff"/>
+<rect x="110" y="70" width="100" height="112" rx="17" fill="#3940a6"/>
+<rect x="126" y="54" width="68" height="24" rx="10" fill="#5f63d4"/>
+<rect x="116" y="106" width="88" height="34" fill="#ffffff"/>
+<text x="160" y="128" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#2d3292">COLA</text>
+<text x="160" y="35" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#5559bb">COLD DRINK</text>
+<text x="160" y="208" text-anchor="middle" font-family="Arial" font-size="14" fill="#777bb8">750 ML</text></svg>

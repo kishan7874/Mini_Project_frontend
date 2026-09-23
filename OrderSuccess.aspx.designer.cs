@@ -1,0 +1,1 @@
+namespace QuickKart10Min { public partial class OrderSuccess { protected global::System.Web.UI.WebControls.Literal litName; protected global::System.Web.UI.WebControls.Literal litOrder; } }
